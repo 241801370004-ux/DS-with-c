@@ -6,8 +6,8 @@ class Main {
     }
 
     public static void main(String[] args) {
-        int a = 2;
-        int b = 3;
+        int a = 15;
+        int b = 25;
         int result = AddTwo(a,b);
         
         
