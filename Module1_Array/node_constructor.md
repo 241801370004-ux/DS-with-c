@@ -1,2 +1,2 @@
 # out put of node constructor
-<img width="142" height="102" alt="image" src="https://github.com/user-attachments/assets/911e7cee-a3e5-4d4b-961f-221f4231535f" />
+<img width="296" height="162" alt="image" src="https://github.com/user-attachments/assets/970b99ea-5d03-4fa1-a805-6f0c76a076c0" />
