@@ -8,6 +8,8 @@ class Node{
     Node(int a){
         data=a;
         next=null;
+        
+
     }
     
     public void getdata(){
@@ -22,8 +24,11 @@ class Node{
 class Main {
     public static void main(String[] args) {
     Node a = new Node(20);
+    Node b = new Node(40);
       a.getdata();
       a.getnext();
         System.out.println(a);
+         b.getdata();    
+        b.getnext();
     }  
 }
